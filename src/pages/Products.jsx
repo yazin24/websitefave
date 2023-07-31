@@ -6,12 +6,13 @@ import React from 'react'
 const Products = () => {
   return (
     <div  className='bg-gradient-to-l from-violet-900 via-violet-400 to-blue-100'>
+       <h2 className='text-center pt-12 text-3xl font-bold text-gray-200'>List of Products</h2>
       <div className='flex justify-center md:justify-end md:mr-12'>
         <div className=''>
-        <input type="text" className='mt-24 h-8 w-60 rounded-md shadow-md'/>
+        <input type="text" className='mt-20 h-8 w-60 rounded-md shadow-md'/>
         </div>
         <div className='mt-1'>
-        <button className='bg-violet-700 mt-24 text-gray-200 text-sm p-1 rounded-md flex items-center justify-center font-bold ml-1 shadow-md'>Search</button>
+        <button className='bg-violet-700 mt-20 text-gray-200 text-sm p-1 rounded-md flex items-center justify-center font-bold ml-1 shadow-md'>Search</button>
         </div>
       </div>
     <div className="flex-col md:flex-row px-12 mx-auto grid grid-cols-1 md:grid-cols-4 gap-20 py-5 bg-gradient-to-l from-violet-900 via-violet-400 to-blue-100">
@@ -28,7 +29,7 @@ const Products = () => {
               <span>₱ 150.00</span>
             </div>
             <div className="flex justify-center">
-              <button className="w-full rounded-md p-1 bg-blue-700 text-gray-200 hover:bg-red-500 font-bold">
+              <button className="w-full rounded-md p-1 bg-blue-700 text-gray-200 hover:bg-yellow-500 font-bold">
                 Buy Now
               </button>
             </div>
@@ -49,7 +50,7 @@ const Products = () => {
               <span>₱ 150.00</span>
             </div>
             <div className="flex justify-center">
-              <button className="w-full rounded-md p-1 bg-blue-700 text-gray-200 hover:bg-red-500 font-bold">
+              <button className="w-full rounded-md p-1 bg-blue-700 text-gray-200 hover:bg-yellow-500 font-bold">
                 Buy Now
               </button>
             </div>
@@ -70,7 +71,7 @@ const Products = () => {
               <span>₱ 150.00</span>
             </div>
             <div className="flex justify-center">
-              <button className="w-full rounded-md p-1 bg-blue-700 text-gray-200 hover:bg-red-500 font-bold">
+              <button className="w-full rounded-md p-1 bg-blue-700 text-gray-200 hover:bg-yellow-500 font-bold">
                 Buy Now
               </button>
             </div>
@@ -91,7 +92,7 @@ const Products = () => {
               <span>₱ 150.00</span>
             </div>
             <div className="flex justify-center">
-              <button className="w-full rounded-md p-1 bg-blue-700 text-gray-200 hover:bg-red-500 font-bold">
+              <button className="w-full rounded-md p-1 bg-blue-700 text-gray-200 hover:bg-yellow-500 font-bold">
                 Buy Now
               </button>
             </div>
@@ -112,7 +113,7 @@ const Products = () => {
               <span>₱ 150.00</span>
             </div>
             <div className="flex justify-center">
-              <button className="w-full rounded-md p-1 bg-blue-700 text-gray-200 hover:bg-red-500 font-bold">
+              <button className="w-full rounded-md p-1 bg-blue-700 text-gray-200 hover:bg-yellow-500 font-bold">
                 Buy Now
               </button>
             </div>
@@ -133,7 +134,7 @@ const Products = () => {
               <span>₱ 150.00</span>
             </div>
             <div className="flex justify-center">
-              <button className="w-full rounded-md p-1 bg-blue-700 text-gray-200 hover:bg-red-500 font-bold">
+              <button className="w-full rounded-md p-1 bg-blue-700 text-gray-200 hover:bg-yellow-500 font-bold">
                 Buy Now
               </button>
             </div>
@@ -154,7 +155,7 @@ const Products = () => {
               <span>₱ 150.00</span>
             </div>
             <div className="flex justify-center">
-              <button className="w-full rounded-md p-1 bg-blue-700 text-gray-200 hover:bg-red-500 font-bold">
+              <button className="w-full rounded-md p-1 bg-blue-700 text-gray-200 hover:bg-yellow-500 font-bold">
                 Buy Now
               </button>
             </div>
@@ -175,7 +176,7 @@ const Products = () => {
               <span>₱ 150.00</span>
             </div>
             <div className="flex justify-center">
-              <button className="w-full rounded-md p-1 bg-blue-700 text-gray-200 hover:bg-red-500 font-bold">
+              <button className="w-full rounded-md p-1 bg-blue-700 text-gray-200 hover:bg-yellow-500 font-bold">
                 Buy Now
               </button>
             </div>
@@ -196,7 +197,7 @@ const Products = () => {
               <span>₱ 150.00</span>
             </div>
             <div className="flex justify-center">
-              <button className="w-full rounded-md p-1 bg-blue-700 text-gray-200 hover:bg-red-500 font-bold">
+              <button className="w-full rounded-md p-1 bg-blue-700 text-gray-200 hover:bg-yellow-500 font-bold">
                 Buy Now
               </button>
             </div>
@@ -217,7 +218,7 @@ const Products = () => {
               <span>₱ 150.00</span>
             </div>
             <div className="flex justify-center">
-              <button className="w-full rounded-md p-1 bg-blue-700 text-gray-200 hover:bg-red-500 font-bold">
+              <button className="w-full rounded-md p-1 bg-blue-700 text-gray-200 hover:bg-yellow-500 font-bold">
                 Buy Now
               </button>
             </div>
@@ -238,7 +239,7 @@ const Products = () => {
               <span>₱ 150.00</span>
             </div>
             <div className="flex justify-center">
-              <button className="w-full rounded-md p-1 bg-blue-700 text-gray-200 hover:bg-red-500 font-bold">
+              <button className="w-full rounded-md p-1 bg-blue-700 text-gray-200 hover:bg-yellow-500 font-bold">
                 Buy Now
               </button>
             </div>
@@ -259,7 +260,7 @@ const Products = () => {
               <span>₱ 150.00</span>
             </div>
             <div className="flex justify-center">
-              <button className="w-full rounded-md p-1 bg-blue-700 text-gray-200 hover:bg-red-500 font-bold">
+              <button className="w-full rounded-md p-1 bg-blue-700 text-gray-200 hover:bg-yellow-500 font-bold">
                 Buy Now
               </button>
             </div>
