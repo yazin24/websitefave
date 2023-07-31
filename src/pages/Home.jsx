@@ -11,12 +11,12 @@ const Home = () => {
       <span className='colorlay w-full'>
         <section className='flex flex-col items-center justify-center bg-blue-300/10 backdrop-blur-sm drop-shadow-lg shadow-md p-6 rounded-lg mx-8 lg:mx-96 mt-44'>
           <h2 className='text-2xl text-center font-bold mb-4 text-gray-200'>
-            Discover the power of professional-grade cleaning at your home
+            DISCOVER THE POWER OF PROFESSIONAL-GRADE CLEANING AT YOUR HOME
           </h2>
-          <h4 className='text-center text-sm mb-6 text-gray-200'>
+          <h4 className='text-center text-lg mb-6 text-gray-200'>
             Elevate your cleaning game with our industry-leading products that deliver unmatched performance. Don't wait, take action and elevate your cleaning standards today.
           </h4>
-          <a href='https://www.facebook.com/' className='flex items-center justify-center bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-2 rounded-md w-full md:w-3/4 lg:w-1/2 transition-all duration-200 text-center'>Chat with our Cleaning Experts
+          <a href='https://www.facebook.com/profile.php?id=100094725815233' className='flex items-center justify-center bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-2 rounded-md w-full md:w-3/4 lg:w-1/2 transition-all duration-200 text-center'>Chat with our Cleaning Experts
           </a>
         </section>
         </span>
@@ -81,7 +81,7 @@ const Home = () => {
           <div className='p-4 w-full md:w-1/3'>
             <div className='bg-violet-700 p-4 rounded-md shadow-md my-4'>
               <span className='flex flex-row items-center'>
-                <span><FaExchangeAlt className='text-2xl text-gray-100' /></span>
+                <span><FaExchangeAlt className='text-2xl text-gray-100 mr-1' /></span>
                 <span className=' text-lg text-gray-200 font-bold'>Versatility</span>
               </span>
               <span>
@@ -94,7 +94,7 @@ const Home = () => {
           <div className='p-4 w-full md:w-1/3'>
             <div className='bg-violet-700 p-4 rounded-md shadow-md my-4'>
               <span className='flex flex-row items-center'>
-                <span><FaMagic className='text-2xl text-gray-100' /></span>
+                <span><FaMagic className='text-2xl text-gray-100 mr-1' /></span>
                 <span className=' text-lg text-gray-200 font-bold'>Effectiveness</span>
               </span>
               <span>
@@ -110,7 +110,7 @@ const Home = () => {
             <div className='p-4 w-full md:w-1/3'>
               <div className='bg-violet-700 p-4 rounded-md shadow-md my-4'>
               <span className='flex flex-row items-center'>
-                <span><FaHandsWash className='text-2xl text-gray-100' /></span>
+                <span><FaHandsWash className='text-2xl text-gray-100 mr-1' /></span>
                 <span className=' text-lg text-gray-200 font-bold'>Ease Of Use</span>
                 </span>
                 <span>
@@ -122,7 +122,7 @@ const Home = () => {
             <div className='p-4 w-full md:w-1/3'>
             <div className='bg-violet-700 p-4 rounded-md shadow-md my-4'>
             <span className='flex flex-row items-center'>
-              <span><GiFragrance className='text-2xl text-gray-100' /></span>
+              <span><GiFragrance className='text-2xl text-gray-100 mr-1' /></span>
               <span className=' text-lg text-gray-200 font-bold'>Fragrance And Residue</span>
               </span>
               <span>
@@ -134,7 +134,7 @@ const Home = () => {
             <div className='p-4 w-full md:w-1/3'>
             <div className='bg-violet-700 p-4 flex flex-col rounded-md shadow-md my-4'>
               <span className='flex flex-row items-center'>
-                <span><FaTree className='text-2xl text-gray-100' /></span>
+                <span><FaTree className='text-2xl text-gray-100 mr-1' /></span>
                 <span className=' text-lg text-gray-200 font-bold'>Environment Friendly</span>
               </span>
               <span>
@@ -149,7 +149,7 @@ const Home = () => {
 
       {/* ------------------------------------------------------------------------------------------------------------------------------------------ */}
 
-      <div className='md:my-24 md:mx-8 mx-8'>
+      <div className='md:my-44 md:mx-8 mx-8'>
         <Reviews />
       </div>
 
@@ -159,8 +159,8 @@ const Home = () => {
 
         <div className='w-full md:w-1/4'>
           <span className='flex flex-row md:flex-row'>
-            <FaRegArrowAltCircleRight className='text-2xl text-violet-700' />
-            <h3 className='text-lg mt-4 ml-2'>Setup a Schedule</h3>
+            <FaRegArrowAltCircleRight className='text-2xl text-violet-700'/>
+            <h3 className='text-lg ml-2'>Setup a Schedule</h3>
           </span>
           <p className='mt-2 md: mt-4'>Fill up the form below and wait for our cleaning experts to call or contact you</p>
           <br />
@@ -170,7 +170,7 @@ const Home = () => {
         <div className='w-full md:w-1/4'>
           <span className='flex flex-row md:flex-row'>
             <FaRegArrowAltCircleRight className='text-2xl text-violet-700' />
-            <h3 className='text-lg mt-4 ml-2'>Talk with us</h3>
+            <h3 className='text-lg ml-2'>Talk with us</h3>
           </span>
           <p className='mt-2 md: mt-4'>Our cleaning experts and agents will talk to you about your inquiries in starting a business with us</p>
           <br />
@@ -180,7 +180,7 @@ const Home = () => {
         <div className='w-full md:w-1/4'>
           <span className='flex flex-row md:flex-row'>
             <FaRegArrowAltCircleRight className='text-2xl text-violet-700' />
-            <h3 className='text-lg mt-4 ml-2'>Visit our office</h3>
+            <h3 className='text-lg ml-2'>Visit our office</h3>
           </span>
           <p className='mt-2 md: mt-4'> Our cleaning experts and agents will talk to you about your inquiries in starting a business with us</p>
           <br />
@@ -190,7 +190,7 @@ const Home = () => {
         <div className='w-full md:w-1/4'>
           <span className='flex flex-row md:flex-row'>
             <FaRegArrowAltCircleRight className='text-2xl text-violet-700' />
-            <h3 className='text-lg mt-4 ml-2'>Run your business</h3>
+            <h3 className='text-lg ml-2'>Run your business</h3>
           </span>
           <p className='mt-2 md: mt-4'>Our cleaning experts and agents will talk to you about your inquiries in starting a business with us</p>
           <br />

@@ -27,7 +27,7 @@ const App = () => {
           </Router>
           </div>
           
-          <div className="">
+          <div className="bg-gradient-to-l from-violet-900 via-violet-400 to-blue-100">
           <Footerbar/>
           </div>
       </div>     

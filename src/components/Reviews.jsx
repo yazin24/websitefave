@@ -5,7 +5,7 @@ const Reviews = () => {
     <div>
         <div class="mx-auto text-center md:max-w-xl lg:max-w-3xl">
   <h3
-    class="mb-6 text-3xl font-bold text-neutral-800 dark:text-neutral-200">
+    class="mb-6 text-3xl font-bold text-primary-800 dark:text-primary-500">
     Testimonials
   </h3>
   <p class="mb-6 pb-2 md:mb-12 md:pb-0">
@@ -188,7 +188,7 @@ sinubukan ko agad, dalawang extreme bula ba naman ayun super bula."
       <h6 class="mb-4 font-semibold text-primary dark:text-primary-400">
         Single Dad
       </h6>
-      <p class="mb-4 text-neutral-600 dark:text-neutral-300">
+      <p class="mb-4 text-primary-600 dark:text-primary-500">
       "Thank u sa seller na mabait at responsible at nag rereply agad sa chat... Salamat din Po sa items na kulang at naipadala pa rin Po ng maayos kompleto na po ung order ko maraming salamat po... 🥰🥰🥰"
       </p>
       <ul class="mb-0 flex items-center justify-center">
