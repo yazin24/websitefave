@@ -3,9 +3,12 @@ import React from 'react'
 const Appointmentform = () => {
     return (
         <div className='flex flex-col items-center'>
-            <div className='bg-violet-700 w-full h-32 md:h-52'>
+            <div className='cleaning bg-violet-700 w-full h-24 md:h-52'>
+                <div className='teamcleaningcolor'>
+
+                </div>
             </div>
-            <div>
+            <div className=''>
                 <section className="bg-gray-100">
                     <div className="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 lg:px-8">
                         <div className="grid grid-cols-1 gap-x-16 gap-y-8 lg:grid-cols-5">
