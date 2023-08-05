@@ -8,7 +8,7 @@ const Products = () => {
       </h2>
       <div className="flex justify-center md:justify-end md:mr-12">
         <div className="mb-5">
-          <input type="text" className="mt-20 h-8 w-60 rounded-md shadow-md" />
+          <input type="text" placeholder="Search" className="mt-20 h-8 w-60 rounded-md shadow-md" />
         </div>
         <div className="mt-1">
           <button className="bg-violet-700 mt-20  text-sm p-1 rounded-md flex items-center justify-center font-bold ml-1 shadow-md text-white bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700  font-bold hover:from-pink-200">
