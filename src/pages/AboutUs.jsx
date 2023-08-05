@@ -11,7 +11,7 @@ const AboutUs = () => {
         <div className="flex flex-col md:flex-row md:mx-44">
           <div className="p-8 md:p-12">
             <h2 className="text-2xl text-violet-700 font-bold mb-2">Mission</h2>
-            <p className="font-bold">
+            <p className="font-bold text-sm">
               OUR MISSION AT FAVE IS TO PROVIDE TOP-QUALITY CLEANING PRODUCTS
               THAT PROMOTE A HEALTHIER, SAFER, AND CLEANER ENVIRONMENT FOR HOMES
               AND BUSINESSES WORLDWIDE. WE ARE COMMITTED TO DELIVERING
@@ -30,7 +30,7 @@ const AboutUs = () => {
         <div className="flex flex-col md:flex-row md:mx-44 ">
           <div className="p-8 md:p-12 ">
             <h2 className="text-2xl text-violet-700 font-bold mb-2">Vision</h2>
-            <p className="font-bold">
+            <p className="font-bold text-sm">
               DRIVEN BY OUR PASSION FOR CLEANLINESS AND ENVIRONMENTAL
               STEWARDSHIP, OUR VISION AT FAVE IS TO BECOME THE MOST TRUSTED AND
               ADMIRED BRAND FOR CLEANING PRODUCTS WORLDWIDE. WE ENVISION A
