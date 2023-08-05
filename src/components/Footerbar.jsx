@@ -14,7 +14,7 @@ const Footerbar = () => {
           <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2023 <a href="https://flowbite.com/" className="hover:underline">Fave-Ecommerce.Ph™</a>. All Rights Reserved.
           </span>
           <div className="flex mt-4 space-x-5 sm:justify-center sm:mt-0">
-              <a href="#" className="text-gray-500 hover:text-gray-900 dark:hover:text-white">
+              <a href="https://www.facebook.com/people/Fave-Ecommerce-Inc/100094725815233/" className="text-gray-500 hover:text-gray-900 dark:hover:text-white">
                   <FaFacebook className='text-blue-500'/>
                   <span className="sr-only">Facebook page</span>
               </a>
