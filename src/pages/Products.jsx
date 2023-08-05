@@ -8,7 +8,11 @@ const Products = () => {
       </h2>
       <div className="flex justify-center md:justify-end md:mr-12">
         <div className="mb-5">
-          <input type="text" placeholder="Search" className="mt-20 h-8 w-60 rounded-md shadow-md" />
+          <input
+            type="text"
+            placeholder="Search"
+            className="mt-20 h-8 w-60 rounded-md shadow-md"
+          />
         </div>
         <div className="mt-1">
           <button className="bg-violet-700 mt-20  text-sm p-1 rounded-md flex items-center justify-center font-bold ml-1 shadow-md text-white bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700  font-bold hover:from-pink-200">
@@ -17,9 +21,9 @@ const Products = () => {
         </div>
       </div>
 
-      <div className="flex-col md:flex-row px-12 mx-auto grid grid-cols-1 md:grid-cols-4 gap-20 py-5 bg-gradient-to-l from-violet-900 via-violet-400 to-blue-100">
+      <div className="flex-col md:flex-row px-12 mx-auto grid grid-cols-1 md:grid-cols-4 gap-20 py-5 bg-gradient-to-l from-violet-900 via-violet-400 to-blue-100"> 
         <div className="flex items-center justify-center">
-          <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[0.85] hover:!scale-100!important duration-500">
+          <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
             <img
               className="w-full h-full object-cover"
               src="https://t4.ftcdn.net/jpg/02/25/51/03/360_F_225510395_lOJ0cDsvLpfbz9fivpn3KwGIKaPZ3uEf.jpg"
@@ -30,13 +34,13 @@ const Products = () => {
                 <span>ITEMS</span>
                 <span>₱ 150.00</span>
               </div>
-              
-                <div className="flex justify-center">
-                  <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200">
-                    Buy Now
-                  </button>
-                </div>
-             
+
+              <div className="flex justify-center">
+                <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200">
+                  Buy Now
+                </button>
+              </div>
+
               <ul class="mb-0 flex items-center justify-center pt-2">
                 <li>
                   <svg
@@ -114,7 +118,7 @@ const Products = () => {
         </div>
 
         <div className="flex items-center justify-center">
-          <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[0.85] hover:!scale-100!important duration-500">
+          <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
             <img
               className="w-full h-full object-cover"
               src="https://t4.ftcdn.net/jpg/02/25/51/03/360_F_225510395_lOJ0cDsvLpfbz9fivpn3KwGIKaPZ3uEf.jpg"
@@ -207,7 +211,7 @@ const Products = () => {
         </div>
 
         <div className="flex items-center justify-center">
-          <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[0.85] hover:!scale-100!important duration-500">
+          <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
             <img
               className="w-full h-full object-cover"
               src="https://t4.ftcdn.net/jpg/02/25/51/03/360_F_225510395_lOJ0cDsvLpfbz9fivpn3KwGIKaPZ3uEf.jpg"
@@ -300,7 +304,7 @@ const Products = () => {
         </div>
 
         <div className="flex items-center justify-center">
-          <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[0.85] hover:!scale-100!important duration-500">
+          <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
             <img
               className="w-full h-full object-cover"
               src="https://t4.ftcdn.net/jpg/02/25/51/03/360_F_225510395_lOJ0cDsvLpfbz9fivpn3KwGIKaPZ3uEf.jpg"
@@ -393,7 +397,7 @@ const Products = () => {
         </div>
 
         <div className="flex items-center justify-center">
-          <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[0.85] hover:!scale-100!important duration-500">
+          <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
             <img
               className="w-full h-full object-cover"
               src="https://t4.ftcdn.net/jpg/02/25/51/03/360_F_225510395_lOJ0cDsvLpfbz9fivpn3KwGIKaPZ3uEf.jpg"
@@ -486,7 +490,7 @@ const Products = () => {
         </div>
 
         <div className="flex items-center justify-center">
-          <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[0.85] hover:!scale-100!important duration-500">
+          <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
             <img
               className="w-full h-full object-cover"
               src="https://t4.ftcdn.net/jpg/02/25/51/03/360_F_225510395_lOJ0cDsvLpfbz9fivpn3KwGIKaPZ3uEf.jpg"
@@ -579,7 +583,7 @@ const Products = () => {
         </div>
 
         <div className="flex items-center justify-center">
-          <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[0.85] hover:!scale-100!important duration-500">
+          <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
             <img
               className="w-full h-full object-cover"
               src="https://t4.ftcdn.net/jpg/02/25/51/03/360_F_225510395_lOJ0cDsvLpfbz9fivpn3KwGIKaPZ3uEf.jpg"
@@ -672,7 +676,7 @@ const Products = () => {
         </div>
 
         <div className="flex items-center justify-center">
-          <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[0.85] hover:!scale-100!important duration-500">
+          <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
             <img
               className="w-full h-full object-cover"
               src="https://t4.ftcdn.net/jpg/02/25/51/03/360_F_225510395_lOJ0cDsvLpfbz9fivpn3KwGIKaPZ3uEf.jpg"
@@ -765,7 +769,7 @@ const Products = () => {
         </div>
 
         <div className="flex items-center justify-center">
-          <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[0.85] hover:!scale-100!important duration-500">
+          <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
             <img
               className="w-full h-full object-cover"
               src="https://t4.ftcdn.net/jpg/02/25/51/03/360_F_225510395_lOJ0cDsvLpfbz9fivpn3KwGIKaPZ3uEf.jpg"
@@ -858,7 +862,7 @@ const Products = () => {
         </div>
 
         <div className="flex items-center justify-center">
-          <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[0.85] hover:!scale-100!important duration-500">
+          <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
             <img
               className="w-full h-full object-cover"
               src="https://t4.ftcdn.net/jpg/02/25/51/03/360_F_225510395_lOJ0cDsvLpfbz9fivpn3KwGIKaPZ3uEf.jpg"
@@ -951,7 +955,7 @@ const Products = () => {
         </div>
 
         <div className="flex items-center justify-center">
-          <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[0.85] hover:!scale-100!important duration-500">
+          <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
             <img
               className="w-full h-full object-cover"
               src="https://t4.ftcdn.net/jpg/02/25/51/03/360_F_225510395_lOJ0cDsvLpfbz9fivpn3KwGIKaPZ3uEf.jpg"
@@ -1044,7 +1048,7 @@ const Products = () => {
         </div>
 
         <div className="flex items-center justify-center">
-          <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[0.85] hover:!scale-100!important duration-500">
+          <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
             <img
               className="w-full h-full object-cover"
               src="https://t4.ftcdn.net/jpg/02/25/51/03/360_F_225510395_lOJ0cDsvLpfbz9fivpn3KwGIKaPZ3uEf.jpg"
