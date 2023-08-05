@@ -16,7 +16,7 @@ const Home = () => {
           <h4 className='text-center text-lg mb-6 text-gray-200'>
             Elevate your cleaning game with our industry-leading products that deliver unmatched performance. Don't wait, take action and elevate your cleaning standards today.
           </h4>
-          <a href='https://www.facebook.com/profile.php?id=100094725815233' className='flex items-center justify-center bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-2 rounded-md w-full md:w-3/4 lg:w-1/2 transition-all duration-200 text-center'>Chat with our Cleaning Experts
+          <a href='https://www.facebook.com/profile.php?id=100094725815233' className='flex items-center justify-center bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-2 rounded-md w-full md:w-3/4 lg:w-1/2 transition-all duration-200 text-center'>CHAT WITH OUR CLEANING EXPERTS
           </a>
         </section>
         </span>
