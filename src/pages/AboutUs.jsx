@@ -52,11 +52,11 @@ const AboutUs = () => {
         <br></br>
         <div className="flex flex-col md:flex-row justify-center">
           <div className="p-12 mt-8">
-            <h2 className="text-violet-700 font-bold">Fave Ecommerce</h2>
-            <h2>8 Calle Industria Bagumbayan Quezon City</h2>
-            <h2>09182687414</h2>
-            <h2>+298-8343-5</h2>
-            <h2>faveecommerce@gmail.com</h2>
+            <h2 className="text-violet-700 font-bold text-2xl">Fave Ecommerce</h2>
+            <h2 className="font-bold text-sm">8 Calle Industria Bagumbayan Quezon City</h2>
+            <h2 className="font-bold text-sm">09182687414</h2>
+            <h2 className="font-bold text-sm">+298-8343-5</h2>
+            <h2 className="font-bold text-sm">faveecommerce@gmail.com</h2>
           </div>
           <div className="p-4 md:p-12 flex justify-center items-center align-center">
             <img src="./favelogo.png" className="h-44" />
