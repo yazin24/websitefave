@@ -7,19 +7,19 @@ const Services = () => {
         Services
       </h2>
       <div className="flex flex-col justify-center items-center md:flex-row">
-        <div className="m-8 md:m-24 hover:bg-violet-900 p-1 rounded-sm cursor-pointer hover:scale-[0.85] hover:!scale-100!important duration-500">
+        <div className="m-8 md:m-24 hover:bg-violet-900 p-1 rounded-sm cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
           <a href="https://shopee.ph/shop/1007082223">
             <img src="./shoppee.jpg" alt="shoppee logo" className="w-96 h-52" />
           </a>
         </div>
-        <div className="m-8 md:m-24 hover:bg-violet-900 p-1 rounded-sm cursor-pointer hover:scale-[0.85] hover:!scale-100!important duration-500">
+        <div className="m-8 md:m-24 hover:bg-violet-900 p-1 rounded-sm cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
           <a href="https://www.lazada.com.ph/shop/fave-ecommerce-inc/?spm=a1zawj.site_profile_infoSettings.0.0.718a4edfnlxxPt">
             <img src="./lazada.jpg" alt="lazada logo" className="w-96 h-52" />
           </a>
         </div>
       </div>
       <div className="flex flex-col justify-center items-center md:flex-row">
-        <div className="m-8 md:m-24 hover:bg-violet-900 p-1 rounded-sm cursor-pointer hover:scale-[0.85] hover:!scale-100!important duration-500">
+        <div className="m-8 md:m-24 hover:bg-violet-900 p-1 rounded-sm cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
           <a href="https://www.facebook.com/people/Fave-Ecommerce-Inc/100094725815233/">
             <img
               src="./marketplace.jpg"
@@ -28,7 +28,7 @@ const Services = () => {
             />
           </a>
         </div>
-        <div className="m-8 md:m-24 hover:bg-violet-900 p-1 rounded-sm cursor-pointer hover:scale-[0.85] hover:!scale-100!important duration-500">
+        <div className="m-8 md:m-24 hover:bg-violet-900 p-1 rounded-sm cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
           <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
             <img src="./tiktok.png" alt="shoppee logo" className="w-96 h-52" />
           </a>
