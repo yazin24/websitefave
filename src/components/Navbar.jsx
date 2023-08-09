@@ -16,8 +16,8 @@ const Navbar = () => {
       <div className="bg-gradient-to-l from-violet-900 via-violet-400 to-blue-100 py-4 md:px-10 px-7 md:flex items-center justify-between">
         <div className="font-bold text-2xl cursor-pointer flex items-center font-[Poppins] text-gray-800">
           <span className="text-3xl text-indigo-600 mr-1 pt-1">
-             <a href="/">
-              <img className="h-14 w-24" src="/favelogo.png" alt="Logo" />
+            <a href="/">
+              <img className="h-12 w-24 ml-10" src="/newlogo.png" alt="Logo" />
             </a>
           </span>
         </div>
