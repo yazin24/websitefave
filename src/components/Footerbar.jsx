@@ -29,19 +29,19 @@ const Footerbar = () => {
 
           <div className="mt-8 md:mt-12 flex flex-row sm:flex-row py-4 mx-auto items-center justify-end space-x-4">
             <div className="">
-              <FaFacebookSquare className="h-8 w-8 text-white" />
+              <FaFacebookSquare className="h-5 w-5 text-white" />
             </div>
 
             <div className="">
-              <FaTiktok className="h-8 w-8 text-white" />
+              <FaTiktok className="h-5 w-5 text-white" />
             </div>
 
             <div className="">
-              <FaYoutube className="h-8 w-8 text-white" />
+              <FaYoutube className="h-5 w-5 text-white" />
             </div>
 
             <div className="">
-              <FaEnvelope className="h-8 w-8 text-white" />
+              <FaEnvelope className="h-5 w-5 text-white" />
             </div>
           </div>
         </div>
@@ -53,5 +53,3 @@ const Footerbar = () => {
 export default Footerbar;
 
 
-// flex flex-column md:flex-row justify-between mx-8
-// grid grid-cols-1 sm:grid-cols-3 gap-4 lg:grid-cols-4 sm:px-8
