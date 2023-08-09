@@ -17,7 +17,7 @@ const Navbar = () => {
         <div className="font-bold text-2xl cursor-pointer flex items-center font-[Poppins] text-gray-800">
           <span className="text-3xl text-indigo-600 mr-1 pt-1">
             <a href="/">
-              <img className="h-12 w-24 ml-10" src="/newlogo.png" alt="Logo" />
+              <img className="h-12 w-22 ml-10" src="/newlogo.png" alt="Logo" />
             </a>
           </span>
         </div>
