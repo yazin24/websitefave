@@ -11,7 +11,7 @@ const AboutUs = () => {
         <div className="flex flex-col md:flex-row md:mx-44">
           <div className="p-8 md:p-12">
             <h2 className="text-2xl text-violet-700 font-bold mb-2">Mission</h2>
-            <p className="font-bold text-sm">
+            <p className="font-bold">
               OUR MISSION AT FAVE IS TO PROVIDE TOP-QUALITY CLEANING PRODUCTS
               THAT PROMOTE A HEALTHIER, SAFER, AND CLEANER ENVIRONMENT FOR HOMES
               AND BUSINESSES WORLDWIDE. WE ARE COMMITTED TO DELIVERING
@@ -30,7 +30,7 @@ const AboutUs = () => {
         <div className="flex flex-col md:flex-row md:mx-44 ">
           <div className="p-8 md:p-12 ">
             <h2 className="text-2xl text-violet-700 font-bold mb-2">Vision</h2>
-            <p className="font-bold text-sm">
+            <p className="font-bold">
               DRIVEN BY OUR PASSION FOR CLEANLINESS AND ENVIRONMENTAL
               STEWARDSHIP, OUR VISION AT FAVE IS TO BECOME THE MOST TRUSTED AND
               ADMIRED BRAND FOR CLEANING PRODUCTS WORLDWIDE. WE ENVISION A
@@ -52,14 +52,18 @@ const AboutUs = () => {
         <br></br>
         <div className="flex flex-col md:flex-row justify-center">
           <div className="p-12 mt-8">
-            <h2 className="text-violet-700 font-bold text-2xl">Fave Ecommerce</h2>
-            <h2 className="font-bold text-sm">8 Calle Industria Bagumbayan Quezon City</h2>
+            <h2 className="text-violet-700 font-bold text-2xl">
+              Fave E-commerce
+            </h2>
+            <h2 className="font-bold text-sm">
+              8 Calle Industria Bagumbayan Quezon City
+            </h2>
             <h2 className="font-bold text-sm">09182687414</h2>
             <h2 className="font-bold text-sm">+298-8343-5</h2>
             <h2 className="font-bold text-sm">faveecommerce@gmail.com</h2>
           </div>
           <div className="p-4 md:p-12 flex justify-center items-center align-center">
-            <img src="./favelogo.png" className="h-44" />
+            <img src="./newlogo.png" className="h-44" />
           </div>
         </div>
       </div>
