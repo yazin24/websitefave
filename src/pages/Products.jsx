@@ -3,9 +3,11 @@ import React from "react";
 const Products = () => {
   return (
     <div className="bg-gradient-to-l from-violet-900 via-violet-400 to-blue-100">
+      <div className="pt-12">
       <h2 className="text-center pt-12 text-3xl font-bold text-gray-200">
         List of Products
       </h2>
+        </div>
       <div className="flex justify-center md:justify-end md:mr-12">
         <div className="mb-5">
           <input
