@@ -40,11 +40,11 @@ const Navbar = () => {
           {Links.map((Link) => (
             <li
               key={Link.name}
-              className="md:ml-8 text-md md:my-0  my-2 pt-4 mr-12"
+              className="text-md md:my-0  my-2 pt-4 mr-12"
             >
               <a
                 href={Link.link}
-                className="text-yellow-600 md:text-gray-200 font-bold hover:text-yellow-500 duration-200"
+                className="text-yellow-600 md:text-gray-200 font-bold hover:bg-yellow-500 md:p-6 md:pt-10 duration-200"
               >
                 {Link.name}
               </a>
