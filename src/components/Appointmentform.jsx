@@ -152,7 +152,7 @@ const Alert = () => {
                     href="home"
                     type="submit"
                     value="Send"
-                    className="inline-block w-full rounded-lg bg-violet-700 px-5 py-3 font-medium text-white sm:w-auto hover:bg-rose-400 duration-500"
+                    className="inline-block w-full rounded-lg bg-violet-700 px-5 py-3 font-medium text-white sm:w-auto hover:bg-yellow-500 duration-500"
                   >
                     Set Appointment
                   </button>
