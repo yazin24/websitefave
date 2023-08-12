@@ -1,4 +1,5 @@
-import React from "react";
+import React, { useState, useEffect} from "react";
+import { IoIosArrowDropupCircle } from "react-icons/io";
 import {
   FaFacebookSquare,
   FaTiktok,
@@ -7,6 +8,33 @@ import {
 } from "react-icons/fa";
 
 const Footerbar = () => {
+
+
+  const [isVisible, setIsVisible] = useState(false);
+
+  const handleScroll = () => {
+    if (window.pageYOffset > 300) {
+      setIsVisible(true);
+    } else {
+      setIsVisible(false);
+    }
+  };
+
+  const scrollToTop = () => {
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth",
+    });
+  };
+
+  useEffect(() => {
+    window.addEventListener("scroll", handleScroll);
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, []);
+
+
   return (
     <footer className="bg-gradient-to-l from-violet-900 via-violet-400 to-blue-100">
       <div className="mb-8 px-8 bg-gradient-to-l from-violet-900 via-violet-400 to-blue-100 ">
@@ -35,7 +63,9 @@ const Footerbar = () => {
 
           <div className="mt-8 md:mt-12 flex flex-row sm:flex-row py-4 mx-auto items-center justify-end space-x-4">
             <div className="">
-              <FaFacebookSquare className="h-5 w-5 text-white cursor-pointer" />
+              <a href="https://www.facebook.com/people/Fave-Ecommerce-Inc/100094725815233/">
+                <FaFacebookSquare className="h-5 w-5 text-white cursor-pointer" />
+              </a>
             </div>
 
             <div className="">
@@ -49,6 +79,15 @@ const Footerbar = () => {
             <div className="">
               <FaEnvelope className="h-5 w-5 text-white cursor-pointer" />
             </div>
+
+            <button
+              className={`fixed bottom-4 right-4 p-1 bg-violet-700  text-black ${
+                isVisible ? "block" : "hidden"
+              }`}
+              onClick={scrollToTop}
+            >
+              <IoIosArrowDropupCircle icon={IoIosArrowDropupCircle} />
+            </button>
           </div>
         </div>
       </div>
