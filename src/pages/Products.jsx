@@ -20,8 +20,16 @@ const Products = () => {
 
               <div className="flex justify-center">
                 <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200">
-                  <a href="/">
-                    Buy Now
+                  <a href="https://shopee.ph/Fave-Dishwashing-Liquid-1Gallon-i.1007082223.18382745086?sp_atk=a186c8cb-1434-4b03-a6fe-4c132712dfbf&xptdk=a186c8cb-1434-4b03-a6fe-4c132712dfbf">
+                    Shopee
+                  </a>
+                </button>
+              </div>
+
+              <div className="flex justify-center">
+                <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200 mt-2">
+                  <a href="https://www.lazada.com.ph/products/dishwashing-liquid-1gallon-i4052909460-s22028589341.html?&search=pdp_same_topselling?spm=a2o4l.pdp_revamp.recommendation_1.1.495e6f2eLpRKBH&mp=1&scm=1007.16389.286994.0&clickTrackInfo=18ea58ee-0d68-47e6-9cf2-8562a754eea9__4052909460__24447__trigger2i__224806__1.0__1.0__0.0__0.0__0.0__1.0__0__null__null__null__null__null__null____129.0__0.0__0.0__0__129.0__255084,255127,255313__null__null__null__3650.16544_955.3633_3650.16540_955.3632__null__13426__null__0.0__0.0________null__null">
+                    Lazada
                   </a>
                 </button>
               </div>
@@ -109,13 +117,23 @@ const Products = () => {
               <div className="px-3 py-1 text-md justify text-center font-bold text-gray-200">
                 <span>₱ 35.00</span>
               </div>
+
               <div className="flex justify-center">
                 <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200">
-                  <a href="/">
-                    Buy Now
+                  <a href="https://shopee.ph/Fave-Dishwashing-Liquid-1Liter-i.1007082223.22576356482?sp_atk=bbc81f20-e3ff-4356-8f7b-eca7f1523ebe&xptdk=bbc81f20-e3ff-4356-8f7b-eca7f1523ebe">
+                    Shopee
                   </a>
                 </button>
               </div>
+
+              <div className="flex justify-center">
+                <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200 mt-2">
+                  <a href="https://www.lazada.com.ph/products/fave-dishwashing-liquid-1-liter-i4050182063-s22000015331.html?&search=pdp_same_topselling?spm=a2o4l.pdp_revamp.recommendation_1.1.1fe4325apHAEUg&mp=1&scm=1007.16389.286994.0&clickTrackInfo=40c92685-10ec-48ba-a103-4d29638c4d22__4050182063__24447__trigger2i__224806__1.0__1.0__0.0__0.0__0.0__1.0__0__null__null__null__null__null__null____35.0__0.0__0.0__0__35.0__255084,255127,255313__null__null__null__3650.16537_955.3629_3650.16544_955.3632__null__13426__null__0.0__0.0________null__null">
+                    Lazada
+                  </a>
+                </button>
+              </div>
+
               <ul class="mb-0 flex items-center justify-center pt-2">
                 <li>
                   <svg
@@ -199,13 +217,23 @@ const Products = () => {
               <div className="px-3 py-1 text-md font-bold text-center text-gray-200">
                 <span>₱ 129.00</span>
               </div>
+
               <div className="flex justify-center">
-                <button className="w-full rounded-md p-1 text-white bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 font-bold hover:from-pink-200">
-                  <a =href"/">
-                    Buy Now
+                <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200">
+                  <a href="https://shopee.ph/Fave-Dishwashing-Liquid-1Gallon-i.1007082223.18382745086?sp_atk=a186c8cb-1434-4b03-a6fe-4c132712dfbf&xptdk=a186c8cb-1434-4b03-a6fe-4c132712dfbf">
+                    Shopee
                   </a>
                 </button>
               </div>
+
+              <div className="flex justify-center">
+                <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200 mt-2">
+                  <a href="https://www.lazada.com.ph/products/dishwashing-liquid-1gallon-i4052909460-s22028589341.html?&search=pdp_same_topselling?spm=a2o4l.pdp_revamp.recommendation_1.1.495e6f2eLpRKBH&mp=1&scm=1007.16389.286994.0&clickTrackInfo=18ea58ee-0d68-47e6-9cf2-8562a754eea9__4052909460__24447__trigger2i__224806__1.0__1.0__0.0__0.0__0.0__1.0__0__null__null__null__null__null__null____129.0__0.0__0.0__0__129.0__255084,255127,255313__null__null__null__3650.16544_955.3633_3650.16540_955.3632__null__13426__null__0.0__0.0________null__null">
+                    Lazada
+                  </a>
+                </button>
+              </div>
+
               <ul class="mb-0 flex items-center justify-center pt-2">
                 <li>
                   <svg
@@ -289,13 +317,23 @@ const Products = () => {
               <div className="px-3 py-1 text-md text-center font-bold text-white">
                 <span>₱ 35.00</span>
               </div>
+
               <div className="flex justify-center">
-                <button className="w-full rounded-md p-1 bg-blue-700 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 font-bold hover:from-pink-200">
-                  <a href="">
-                    Buy Now
+                <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200">
+                  <a href="https://shopee.ph/Fave-Dishwashing-Liquid-1Liter-i.1007082223.22576356482?sp_atk=bbc81f20-e3ff-4356-8f7b-eca7f1523ebe&xptdk=bbc81f20-e3ff-4356-8f7b-eca7f1523ebe">
+                    Shopee
                   </a>
                 </button>
               </div>
+
+              <div className="flex justify-center">
+                <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200 mt-2">
+                  <a href="https://www.lazada.com.ph/products/fave-dishwashing-liquid-1-liter-i4050182063-s22000015331.html?&search=pdp_same_topselling?spm=a2o4l.pdp_revamp.recommendation_1.1.1fe4325apHAEUg&mp=1&scm=1007.16389.286994.0&clickTrackInfo=40c92685-10ec-48ba-a103-4d29638c4d22__4050182063__24447__trigger2i__224806__1.0__1.0__0.0__0.0__0.0__1.0__0__null__null__null__null__null__null____35.0__0.0__0.0__0__35.0__255084,255127,255313__null__null__null__3650.16537_955.3629_3650.16544_955.3632__null__13426__null__0.0__0.0________null__null">
+                    Lazada
+                  </a>
+                </button>
+              </div>
+
               <ul class="mb-0 flex items-center justify-center pt-2">
                 <li>
                   <svg
@@ -379,13 +417,23 @@ const Products = () => {
               <div className="px-3 py-1 text-md text-center font-bold  text-white">
                 <span>₱ 129.00</span>
               </div>
+
               <div className="flex justify-center">
-                <button className="w-full rounded-md p-1 bg-blue-700 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 font-bold hover:from-pink-200">
-                  <a href="/">
-                    Buy Now
+                <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200">
+                  <a href="https://shopee.ph/Fave-Dishwashing-Liquid-1Gallon-i.1007082223.18382745086?sp_atk=a186c8cb-1434-4b03-a6fe-4c132712dfbf&xptdk=a186c8cb-1434-4b03-a6fe-4c132712dfbf">
+                    Shopee
                   </a>
                 </button>
               </div>
+
+              <div className="flex justify-center">
+                <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200 mt-2">
+                  <a href="https://www.lazada.com.ph/products/dishwashing-liquid-1gallon-i4052909460-s22028589341.html?&search=pdp_same_topselling?spm=a2o4l.pdp_revamp.recommendation_1.1.495e6f2eLpRKBH&mp=1&scm=1007.16389.286994.0&clickTrackInfo=18ea58ee-0d68-47e6-9cf2-8562a754eea9__4052909460__24447__trigger2i__224806__1.0__1.0__0.0__0.0__0.0__1.0__0__null__null__null__null__null__null____129.0__0.0__0.0__0__129.0__255084,255127,255313__null__null__null__3650.16544_955.3633_3650.16540_955.3632__null__13426__null__0.0__0.0________null__null">
+                    Lazada
+                  </a>
+                </button>
+              </div>
+
               <ul class="mb-0 flex items-center justify-center pt-2">
                 <li>
                   <svg
@@ -469,13 +517,23 @@ const Products = () => {
               <div className="px-3 py-1 text-md text-center font-bold text-gray-200">
                 <span>₱ 35.00</span>
               </div>
+
               <div className="flex justify-center">
-                <button className="w-full rounded-md p-1 text-white bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 font-bold hover:from-pink-200">
-                  <a href="">
-                    Buy Now
+                <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200">
+                  <a href="https://shopee.ph/Fave-Dishwashing-Liquid-1Liter-i.1007082223.22576356482?sp_atk=bbc81f20-e3ff-4356-8f7b-eca7f1523ebe&xptdk=bbc81f20-e3ff-4356-8f7b-eca7f1523ebe">
+                    Shopee
                   </a>
                 </button>
               </div>
+
+              <div className="flex justify-center">
+                <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200 mt-2">
+                  <a href="https://www.lazada.com.ph/products/fave-dishwashing-liquid-1-liter-i4050182063-s22000015331.html?&search=pdp_same_topselling?spm=a2o4l.pdp_revamp.recommendation_1.1.1fe4325apHAEUg&mp=1&scm=1007.16389.286994.0&clickTrackInfo=40c92685-10ec-48ba-a103-4d29638c4d22__4050182063__24447__trigger2i__224806__1.0__1.0__0.0__0.0__0.0__1.0__0__null__null__null__null__null__null____35.0__0.0__0.0__0__35.0__255084,255127,255313__null__null__null__3650.16537_955.3629_3650.16544_955.3632__null__13426__null__0.0__0.0________null__null">
+                    Lazada
+                  </a>
+                </button>
+              </div>
+
               <ul class="mb-0 flex items-center justify-center pt-2">
                 <li>
                   <svg
@@ -559,13 +617,23 @@ const Products = () => {
               <div className="px-3 py-1 text-md text-center font-bold text-gray-200">
                 <span>₱ 129.00</span>
               </div>
+
               <div className="flex justify-center">
-                <button className="w-full rounded-md p-1 text-white bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700  font-bold hover:from-pink-200">
-                  <a href="">
-                    Buy Now
+                <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200">
+                  <a href="https://shopee.ph/Fave-Dishwashing-Liquid-1Gallon-i.1007082223.18382745086?sp_atk=a186c8cb-1434-4b03-a6fe-4c132712dfbf&xptdk=a186c8cb-1434-4b03-a6fe-4c132712dfbf">
+                    Shopee
                   </a>
                 </button>
               </div>
+
+              <div className="flex justify-center">
+                <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200 mt-2">
+                  <a href="https://www.lazada.com.ph/products/dishwashing-liquid-1gallon-i4052909460-s22028589341.html?&search=pdp_same_topselling?spm=a2o4l.pdp_revamp.recommendation_1.1.495e6f2eLpRKBH&mp=1&scm=1007.16389.286994.0&clickTrackInfo=18ea58ee-0d68-47e6-9cf2-8562a754eea9__4052909460__24447__trigger2i__224806__1.0__1.0__0.0__0.0__0.0__1.0__0__null__null__null__null__null__null____129.0__0.0__0.0__0__129.0__255084,255127,255313__null__null__null__3650.16544_955.3633_3650.16540_955.3632__null__13426__null__0.0__0.0________null__null">
+                    Lazada
+                  </a>
+                </button>
+              </div>
+
               <ul class="mb-0 flex items-center justify-center pt-2">
                 <li>
                   <svg
@@ -649,13 +717,23 @@ const Products = () => {
               <div className="px-3 py-1 text-md text-center font-bold text-gray-200">
                 <span>₱ 35.00</span>
               </div>
+
               <div className="flex justify-center">
-                <button className="w-full rounded-md p-1 bg-blue-700 text-white bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 font-bold hover:from-pink-200">
-                  <a href="">
-                    Buy Now
+                <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200">
+                  <a href="https://shopee.ph/Fave-Dishwashing-Liquid-1Liter-i.1007082223.22576356482?sp_atk=bbc81f20-e3ff-4356-8f7b-eca7f1523ebe&xptdk=bbc81f20-e3ff-4356-8f7b-eca7f1523ebe">
+                    Shopee
                   </a>
                 </button>
               </div>
+
+              <div className="flex justify-center">
+                <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200 mt-2">
+                  <a href="https://www.lazada.com.ph/products/fave-dishwashing-liquid-1-liter-i4050182063-s22000015331.html?&search=pdp_same_topselling?spm=a2o4l.pdp_revamp.recommendation_1.1.1fe4325apHAEUg&mp=1&scm=1007.16389.286994.0&clickTrackInfo=40c92685-10ec-48ba-a103-4d29638c4d22__4050182063__24447__trigger2i__224806__1.0__1.0__0.0__0.0__0.0__1.0__0__null__null__null__null__null__null____35.0__0.0__0.0__0__35.0__255084,255127,255313__null__null__null__3650.16537_955.3629_3650.16544_955.3632__null__13426__null__0.0__0.0________null__null">
+                    Lazada
+                  </a>
+                </button>
+              </div>
+
               <ul class="mb-0 flex items-center justify-center pt-2">
                 <li>
                   <svg
