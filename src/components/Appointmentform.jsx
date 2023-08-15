@@ -79,7 +79,7 @@ const Alert = () => {
                   0998-887-3878
                 </a>
 
-                <address className="mt-2 not-italic">Fave Ecommerce INC</address>
+                <address className="mt-2 not-italic">Fave Ecommerce Inc</address>
               </div>
             </div>
 
