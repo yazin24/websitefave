@@ -29,9 +29,9 @@ const Services = () => {
           </a>
         </div>
         <div className="m-8 md:m-24 hover:bg-violet-900 p-1 rounded-sm cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
-          <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+          
             <img src="./tiktok.png" alt="shoppee logo" className="w-96 h-52" />
-          </a>
+          
         </div>
       </div>
     </div>
