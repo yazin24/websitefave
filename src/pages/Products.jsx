@@ -13,7 +13,7 @@ const Products = () => {
         <div className="flex items-center justify-center md:pl-60">
           <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
             <img className="h-56 w-56" src="1.jpg" alt="" />
-            <div className="p-5 flex-col gap-3 bg-violet-700">
+            <div className="p-2 flex-col gap-3 bg-violet-700">
               <div className="px-3 py-1 text-md font-bold text-center text-gray-200">
                 <span>₱ 129.00</span>
               </div>
@@ -113,7 +113,7 @@ const Products = () => {
         <div className="flex items-center justify-center md:pr-60">
           <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
             <img className="h-56 w-56" src="4.jpg" alt="" />
-            <div className="p-5 flex-col gap-3 bg-violet-700">
+            <div className="p-2 flex-col gap-3 bg-violet-700">
               <div className="px-3 py-1 text-md justify text-center font-bold text-gray-200">
                 <span>₱ 35.00</span>
               </div>
@@ -213,7 +213,7 @@ const Products = () => {
         <div className="flex items-center justify-center md:pl-60">
           <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
             <img className="h-56 w-56" src="3.jpg" alt="" />
-            <div className="p-5 flex-col gap-3 bg-violet-700">
+            <div className="p-2 flex-col gap-3 bg-violet-700">
               <div className="px-3 py-1 text-md font-bold text-center text-gray-200">
                 <span>₱ 129.00</span>
               </div>
@@ -313,7 +313,7 @@ const Products = () => {
         <div className="flex items-center justify-center md:pr-60">
           <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
             <img className="h-56 w-56" src="6.jpg" alt="" />
-            <div className="p-5 flex-col gap-3 bg-violet-700">
+            <div className="p-2 flex-col gap-3 bg-violet-700">
               <div className="px-3 py-1 text-md text-center font-bold text-white">
                 <span>₱ 35.00</span>
               </div>
@@ -413,7 +413,7 @@ const Products = () => {
         <div className="flex items-center justify-center md:pl-60">
           <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
             <img className="h-56 w-56" src="2.jpg" alt="" />
-            <div className="p-5 flex-col gap-3 bg-violet-700">
+            <div className="p-2 flex-col gap-3 bg-violet-700">
               <div className="px-3 py-1 text-md text-center font-bold  text-white">
                 <span>₱ 129.00</span>
               </div>
@@ -513,7 +513,7 @@ const Products = () => {
         <div className="flex items-center justify-center md:pr-60">
           <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
             <img className="h-56 w-56" src="5.jpg" alt="" />
-            <div className="p-5 flex-col gap-3 bg-violet-700">
+            <div className="p-2 flex-col gap-3 bg-violet-700">
               <div className="px-3 py-1 text-md text-center font-bold text-gray-200">
                 <span>₱ 35.00</span>
               </div>
@@ -613,7 +613,7 @@ const Products = () => {
         <div className="flex items-center justify-center md:pl-60">
           <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
             <img className="h-56 w-56" src="7.jpg" alt="" />
-            <div className="p-5 flex-col gap-3 bg-violet-700">
+            <div className="p-2 flex-col gap-3 bg-violet-700">
               <div className="px-3 py-1 text-md text-center font-bold text-gray-200">
                 <span>₱ 129.00</span>
               </div>
@@ -713,7 +713,7 @@ const Products = () => {
         <div className="flex items-center justify-center md:pr-60">
           <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
             <img className="h-56 w-56" src="8.jpg" alt="" />
-            <div className="p-5 flex-col gap-3 bg-violet-700">
+            <div className="p-2 flex-col gap-3 bg-violet-700">
               <div className="px-3 py-1 text-md text-center font-bold text-gray-200">
                 <span>₱ 35.00</span>
               </div>
