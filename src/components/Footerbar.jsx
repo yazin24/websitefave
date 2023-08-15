@@ -81,12 +81,12 @@ const Footerbar = () => {
             </div>
 
             <button
-              className={`fixed bottom-4 right-4 p-1 bg-violet-700  text-black ${
+              className={`fixed bottom-4 right-4 p-2 bg-violet-700  text-black ${
                 isVisible ? "block" : "hidden"
               }`}
               onClick={scrollToTop}
             >
-              <IoIosArrowDropupCircle icon={IoIosArrowDropupCircle} />
+              <IoIosArrowDropupCircle icon={IoIosArrowDropupCircle} className="text-2xl" />
             </button>
           </div>
         </div>
