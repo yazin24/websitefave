@@ -20,7 +20,7 @@ const Products = () => {
 
               <div className="flex justify-center">
                 <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200">
-                  <a href="https://shopee.ph/Fave-Dishwashing-Liquid-1Gallon-i.1007082223.18382745086?sp_atk=bf5ced66-a81a-4da2-bff2-fdfce2dc9fa4&xptdk=bf5ced66-a81a-4da2-bff2-fdfce2dc9fa4">
+                  <a href="">
                     Buy Now
                   </a>
                 </button>
@@ -111,7 +111,7 @@ const Products = () => {
               </div>
               <div className="flex justify-center">
                 <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200">
-                  <a href="https://shopee.ph/Fave-Dishwashing-Liquid-1Liter-i.1007082223.22576356482?sp_atk=570a74e1-4d17-431a-8750-9968c1238093&xptdk=570a74e1-4d17-431a-8750-9968c1238093">
+                  <a href="">
                     Buy Now
                   </a>
                 </button>
@@ -201,7 +201,7 @@ const Products = () => {
               </div>
               <div className="flex justify-center">
                 <button className="w-full rounded-md p-1 text-white bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 font-bold hover:from-pink-200">
-                  <a href="https://shopee.ph/Fave-Dishwashing-Liquid-1Gallon-i.1007082223.18382745086?sp_atk=bf5ced66-a81a-4da2-bff2-fdfce2dc9fa4&xptdk=bf5ced66-a81a-4da2-bff2-fdfce2dc9fa4">
+                  <a =href"">
                     Buy Now
                   </a>
                 </button>
@@ -291,7 +291,7 @@ const Products = () => {
               </div>
               <div className="flex justify-center">
                 <button className="w-full rounded-md p-1 bg-blue-700 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 font-bold hover:from-pink-200">
-                  <a href="https://shopee.ph/Fave-Dishwashing-Liquid-1Liter-i.1007082223.22576356482?sp_atk=570a74e1-4d17-431a-8750-9968c1238093&xptdk=570a74e1-4d17-431a-8750-9968c1238093">
+                  <a href="">
                     Buy Now
                   </a>
                 </button>
@@ -381,7 +381,7 @@ const Products = () => {
               </div>
               <div className="flex justify-center">
                 <button className="w-full rounded-md p-1 bg-blue-700 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 font-bold hover:from-pink-200">
-                  <a href="https://shopee.ph/Fave-Dishwashing-Liquid-1Gallon-i.1007082223.18382745086?sp_atk=bf5ced66-a81a-4da2-bff2-fdfce2dc9fa4&xptdk=bf5ced66-a81a-4da2-bff2-fdfce2dc9fa4">
+                  <a href="">
                     Buy Now
                   </a>
                 </button>
@@ -471,7 +471,7 @@ const Products = () => {
               </div>
               <div className="flex justify-center">
                 <button className="w-full rounded-md p-1 text-white bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 font-bold hover:from-pink-200">
-                  <a href="https://shopee.ph/Fave-Dishwashing-Liquid-1Liter-i.1007082223.22576356482?sp_atk=570a74e1-4d17-431a-8750-9968c1238093&xptdk=570a74e1-4d17-431a-8750-9968c1238093">
+                  <a href="">
                     Buy Now
                   </a>
                 </button>
@@ -561,7 +561,7 @@ const Products = () => {
               </div>
               <div className="flex justify-center">
                 <button className="w-full rounded-md p-1 text-white bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700  font-bold hover:from-pink-200">
-                  <a href="https://shopee.ph/Fave-Dishwashing-Liquid-1Gallon-i.1007082223.18382745086?sp_atk=bf5ced66-a81a-4da2-bff2-fdfce2dc9fa4&xptdk=bf5ced66-a81a-4da2-bff2-fdfce2dc9fa4">
+                  <a href="">
                     Buy Now
                   </a>
                 </button>
@@ -651,7 +651,7 @@ const Products = () => {
               </div>
               <div className="flex justify-center">
                 <button className="w-full rounded-md p-1 bg-blue-700 text-white bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 font-bold hover:from-pink-200">
-                  <a href="https://shopee.ph/Fave-Dishwashing-Liquid-1Liter-i.1007082223.22576356482?sp_atk=570a74e1-4d17-431a-8750-9968c1238093&xptdk=570a74e1-4d17-431a-8750-9968c1238093">
+                  <a href="">
                     Buy Now
                   </a>
                 </button>
