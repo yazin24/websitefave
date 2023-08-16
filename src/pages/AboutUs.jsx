@@ -17,7 +17,7 @@ const AboutUs = () => {
               AND MEETING CUSTOMER DEMANDS AND EXPECTATIONS DRIVEN BY CONTINOUS
               RESEARCH AND PRODUCT INNOVATIONS. WE ARE COMMITED TO DELIVERING
               ECO-FRIENDLY AND EFFECTIVE SOLUTIONS WHILE MINIMIZING THE IMPACT
-              ON THE PLANET DEVELOPMENT.
+              ON THE PLANET.
             </p>
           </div>
           <div className="p-2 md:p-12 flex justify-center">
@@ -36,8 +36,7 @@ const AboutUs = () => {
               BY FOSTERING A CULTURE OF EXCELLENCE, SUSTAINABILITY, AND
               CONTINUOUS IMPROVEMENT, WE AIM TO INSPIRE AND EMPOWER INDIVIDUALS
               AND BUSINESSES TO EMBRACE A CLEANER AND HEALTHIER LIFESTYLE,
-              MAKING A POSITIVE IMPACT ON THE WELL-BEING OF PEOPLE AND THE
-              PLANET.
+              MAKING A POSITIVE IMPACT ON THE WELL-BEING OF PEOPLE.
             </p>
           </div>
           <div className="p-8 md:p-12 flex justify-center">
