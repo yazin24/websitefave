@@ -214,7 +214,7 @@ const Products = () => {
         <img src="calamansi.png" alt="" className="h-11 w-11 pb-2" />
       </div>
 
-      <div className="flex items-center  flex-col md:flex-row justify-center md:justify-center gap-40 mt-10">
+      <div className="flex items-center  flex-col md:flex-row justify-center md:justify-center gap-16 md:gap-40 mt-10">
         <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
           <img className="h-56 w-56" src="3.jpg" alt="" />
           <div className="p-2 flex-col bg-violet-700">
@@ -415,7 +415,7 @@ const Products = () => {
         <img src="anti-bacteria.png" alt="" className="h-10 w-10 pb-2" />
       </div>
 
-      <div className="flex items-center flex-col md:flex-row justify-center md:justify-center gap-40 mt-10">
+      <div className="flex items-center flex-col md:flex-row justify-center md:justify-center gap-16 md:gap-40 mt-10">
         <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
           <img className="h-56 w-56" src="2.jpg" alt="" />
           <div className="p-2 flex-col bg-violet-700">
