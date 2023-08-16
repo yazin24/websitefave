@@ -208,7 +208,7 @@ const Products = () => {
         </div>
       </div>
 
-      <div className="pt-10 sm:pl-60 md:pl-64">
+      <div className="pt-20 sm:pl-60 md:pl-64">
         <h2 className="font-bold text-lime-500 text-xl">Calamansi</h2>
       </div>
 
@@ -408,7 +408,7 @@ const Products = () => {
         </div>
       </div>
 
-      <div className="pt-10 sm:pl-60 md:pl-60">
+      <div className="pt-20 sm:pl-60 md:pl-60">
         <h2 className="font-bold text-blue-700 text-xl">Fresh Antibac</h2>
       </div>
 
