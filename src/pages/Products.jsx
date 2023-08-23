@@ -115,7 +115,7 @@ const Products = () => {
             <img className="h-56 w-56" src="4.jpg" alt="" />
             <div className="p-2 flex-col bg-violet-700">
               <div className="px-3 py-1 text-md font-bold text-center text-gray-200">
-                <span>₱35.00</span>
+                <span>₱ 35.00</span>
               </div>
               <div className="flex justify-center">
                 <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200">
@@ -316,7 +316,7 @@ const Products = () => {
             <img className="h-56 w-56" src="6.jpg" alt="" />
             <div className="p-2 flex-col bg-violet-700">
               <div className="px-3 py-1 text-md font-bold text-center text-gray-200">
-                <span>₱35.00</span>
+                <span>₱ 35.00</span>
               </div>
               <div className="flex justify-center">
                 <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200">
@@ -517,7 +517,7 @@ const Products = () => {
             <img className="h-56 w-56" src="5.jpg" alt="" />
             <div className="p-2 flex-col bg-violet-700">
               <div className="px-3 py-1 text-md font-bold text-center text-gray-200">
-                <span>₱35.00</span>
+                <span>₱ 35.00</span>
               </div>
               <div className="flex justify-center">
                 <button className="w-full rounded-md p-1 text-white font-bold bg-gradient-to-t from-yellow-400 via-lime-400 to-lime-700 hover:from-pink-200">
