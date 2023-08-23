@@ -6,10 +6,11 @@ const Videoplayer = () => {
   return (
     <div className="colorlay flex flex-col-reverse md:flex-row md:items-center">
       <div className="mt-4 md:mt-0 md:pr-6 md:ml-12 md:w-1/2">
-        <div className="md:ml-10 flex flex-col items-center justify-center">
+        <div className="md:ml-10 flex flex-col items-center justify-center pb-10">
           <img src="newlogo.png" className="h-20 w-40" alt="" />
           <div className="mt-10 flex flex-col gap-3 text-center">
-            <div className="flex items-center gap-2 font-bold italic">
+            
+            <div className="flex justify-start items-center gap-3 font-bold italic">
               <FaCheck className="text-xl md:text-2xl" />
               <p>Grease cutting power</p>
             </div>
