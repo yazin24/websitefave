@@ -11,7 +11,7 @@ const AboutUs = () => {
         <div className="flex flex-col md:flex-row md:mx-44">
           <div className="p-8 md:p-12">
             <h2 className="text-2xl text-violet-700 font-bold mb-2">Mission</h2>
-            <p className="font-bold">
+            <p className="font-bold text-amber-700">
               TO PROVIDE HIGH QUALITY PRODUCTS AND UNCONDITIONAL CUSTOMER
               SATISFACTION THAT PROMOTES A HEALTHIER, SAFER, CLEANER ENVIRONMENT
               AND MEETING CUSTOMER DEMANDS AND EXPECTATIONS DRIVEN BY CONTINOUS
