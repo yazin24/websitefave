@@ -27,7 +27,7 @@ const AboutUs = () => {
         <div className="flex flex-col md:flex-row md:mx-44 ">
           <div className="p-8 md:p-12 ">
             <h2 className="text-2xl text-violet-700 font-bold mb-2">Vision</h2>
-            <p className="font-bold">
+            <p className="font-bold text-gray-200">
               DRIVEN BY OUR PASSION FOR CLEANLINESS AND ENVIRONMENTAL
               STEWARDSHIP, WE ARE AIMING TO BECOME THE MOST TRUSTED AND ADMIRED
               BRAND FOR HOMECARE PRODUCTS WORLDWIDE. WE ENVISION A FUTURE WHERE
