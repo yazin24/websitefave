@@ -69,9 +69,7 @@ const Alert = () => {
           <div className="grid grid-cols-1 gap-x-16 gap-y-8 lg:grid-cols-5">
             <div className="lg:col-span-2 lg:py-12">
               <p className="max-w-xl text-lg">
-                At the same time, the fact that we are wholly owned and totally
-                independent from manufacturer and other group control gives you
-                confidence that we will only recommend what is right for you.
+                  After setting your appointment, please wait for our cleaning expert to contact you. The maximum days of waiting is probably 3 days. 
               </p>
 
               <div className="mt-8">
