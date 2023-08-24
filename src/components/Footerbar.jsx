@@ -52,7 +52,7 @@ const Footerbar = () => {
           </div>
 
           <div className="flex flex-col">
-            <p className="font-semibold text-white">Fave Ecommerce INC.</p>
+            <p className="font-semibold text-white">Fave Ecommerce Inc.</p>
             <p className="font-semibold text-white">
               8 Calle Industria Bagumbayan, Quezon City
             </p>
