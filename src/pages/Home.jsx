@@ -17,8 +17,8 @@ const Home = () => {
     <div>
       <div class="wrapper flex justify-center items-start">
         <span className="colorlay w-full">
-          <section className="flex flex-col items-center justify-center bg-blue-300/10 backdrop-blur-sm drop-shadow-lg shadow-md p-6 rounded-lg mx-8 lg:mx-96 mt-44">
-            <h2 className="text-2xl text-center font-bold mb-4 text-gray-200">
+          <section className="flex flex-col items-center justify-center bg-blue-300/10 backdrop-blur-sm drop-shadow-lg shadow-md p-6 rounded-lg mx-8 lg:mx-96 mt-24 md:mt-44">
+            <h2 className="text-md md:text-2xl text-center font-bold mb-4 text-gray-200">
               DISCOVER THE POWER OF PROFESSIONAL-GRADE CLEANING AT YOUR HOME
             </h2>
             <h4 className="text-center text-lg mb-6 text-gray-200">
