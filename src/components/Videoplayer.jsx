@@ -6,6 +6,8 @@ import { FaCheck } from "react-icons/fa";
 const Videoplayer = () => {
   return (
     <div className="md:py-24 py-10 colorlay px-2">
+      <h2 class="text-2xl font-semibold">Introducing Our Dishwashing Liquid</h2>
+    <p class="text-gray-600">Experience the cleaning power like never before!</p>
       {/* <div className="mt-4 md:mt-0 md:pr-6 md:ml-12 md:w-1/2">
         <div className="md:ml-10 flex flex-col items-center justify-center pb-10">
           <img src="newlogo.png" className="h-20 w-40" alt="" />
