@@ -37,7 +37,7 @@ const Videoplayer = () => {
 
             <div className="flex justify-start items-center gap-3 text-gray-200 font-bold italic">
               <FaCheck className="text-2xl" />
-              <p>with Moitsturizers for softer hands</p>
+              <p>with Moisturizers for softer hands</p>
             </div>
           </div>
         </div>
