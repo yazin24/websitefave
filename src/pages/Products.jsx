@@ -10,9 +10,9 @@ const Products = () => {
         </h2>
       </div>
 
-      <div className="pt-20 sm:pl-60 md:pl-60 flex md:flex-row gap-2">
-        <h2 className="font-bold text-xl text-yellow-500 mt-2">Honey Lemon</h2>
-        <img src="lemon.png" alt="" className="h-11 w-11 pb-2" />
+      <div className="pt-20 flex md:flex-row gap-2 justify-center">
+        {/* <h2 className="font-bold text-xl text-yellow-500 mt-2">Honey Lemon</h2> */}
+        <img src="HONEYLEMON.png" alt="" className="h-32 w-1/10 pb-2 " />
       </div>
 
       <div className="flex items-center flex-col md:flex-row justify-center md:justify-center gap-16 md:gap-40 mt-10">
@@ -23,7 +23,7 @@ const Products = () => {
         >
           <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
             <img className="h-56 w-56" src="1.jpg" alt="" />
-            <div className="p-2 flex-col bg-violet-700">
+            <div className="p-2 flex-col bg-violet-700"
               <div className="px-3 py-1 text-md font-bold text-center text-gray-200">
                 <span>₱ 129.00</span>
               </div>
@@ -222,9 +222,9 @@ const Products = () => {
         </div>
       </div>
 
-      <div className="pt-20 sm:pl-60 md:pl-64 flex md:flex-row gap-2">
-        <h2 className="font-bold text-lime-500 text-xl mt-1">Calamansi</h2>
-        <img src="calamansi.png" alt="" className="h-11 w-11 pb-2" />
+      <div className="pt-20 flex md:flex-row gap-2 justify-center">
+        {/* <h2 className="font-bold text-lime-500 text-xl mt-1">Calamansi</h2> */}
+        <img src="Calamansi.png" alt="" className="h-32 w-1/10  pb-2" />
       </div>
 
       <div className="flex items-center  flex-col md:flex-row justify-center md:justify-center gap-16 md:gap-40 mt-10">
@@ -434,9 +434,9 @@ const Products = () => {
         </div>
       </div>
 
-      <div className="pt-20 sm:pl-60 md:pl-60 flex md:flex-row gap-2">
-        <h2 className="font-bold text-blue-700 text-xl mt-1">Fresh Antibac</h2>
-        <img src="anti-bacteria.png" alt="" className="h-10 w-10 pb-2" />
+      <div className="pt-20 flex md:flex-row gap-2 justify-center">
+        {/* <h2 className="font-bold text-blue-700 text-xl mt-1">Fresh Antibac</h2> */}
+        <img src="Antibac.png" alt="" className="h-32 w-1/10  pb-2" />
       </div>
 
       <div className="flex items-center flex-col md:flex-row justify-center md:justify-center gap-16 md:gap-40 mt-10">
