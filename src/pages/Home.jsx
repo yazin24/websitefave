@@ -4,7 +4,10 @@ import Appointmentform from '../components/Appointmentform';
 import { FaCheckCircle, FaExchangeAlt, FaMagic, FaHandsWash, FaTree, FaRegArrowAltCircleRight } from "react-icons/fa";
 import { GiFragrance } from "react-icons/gi";
 
+
 const Home = () => {
+
+  const [isOpen, setOpen] = useState(false);
   return (
     <div>
       <div class="wrapper flex justify-center items-start">
@@ -54,6 +57,14 @@ const Home = () => {
         </div> */}
   
         <div className='flex justify-center items-center mx-4 md:mx-44 lg:mx-96'>
+        <ModalVideo
+				channel="youtube"
+				youtube={{ mute: 0, autoplay: 0 }}
+				isOpen={isOpen}
+				videoId="L61p2uyiMSo"
+				onClose={() => setOpen(false)} 
+			/>
+      <button className="btn-primary" onClick={() => setOpen(true)}/>
 
           <div className='flex-col bg-violet-700 p-4 md:p-8 rounded-md mt-24 md:mt-44 shadow-md'>
           <h2 className='text-gray-200 text-2xl font-bold text-center'>Why Choose Us?</h2>
