@@ -1,38 +1,34 @@
 import Navbar from "./components/Navbar";
 import Footerbar from "./components/Footerbar";
-import Home from './pages/Home'
-import Products from './pages/Products'
-import AboutUs from './pages/AboutUs'
-import Services from './pages/Services'
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
-
+import Home from "./pages/Home";
+import Products from "./pages/Products";
+import AboutUs from "./pages/AboutUs";
+import Services from "./pages/Services";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 const App = () => {
   return (
-   
-       <div className="flex flex-col min-h-screen">
+    <div className="flex flex-col min-h-screen">
+      <Navbar />
 
-        <Navbar/>
+      <div className="flex-grow">
+        <Router>
+          <div className="mt-20">
+            <Routes>
+              <Route path="/" element={<Home />} />
+              <Route path="/products" element={<Products />} />
+              <Route path="/aboutus" element={<AboutUs />} />
+              <Route path="/services" element={<Services />} />
+            </Routes>
+          </div>
+        </Router>
+      </div>
 
-        <div className="flex-grow">
-      <Router>
-        <div className="mt-20">
-          <Routes>
-           <Route path="/" element={<Home/>}/>
-            <Route path="/products" element={<Products/>}/>
-            <Route path="/aboutus" element={<AboutUs/>}/>
-            <Route path="/services" element={<Services/>}/>
-          </Routes> 
-          </div>
-          </Router>
-          </div>
-          
-          <div className="bg-gradient-to-l from-violet-900 via-violet-400 to-blue-100">
-          <Footerbar/>
-          </div>
-      </div>     
-   
+      <div className="bg-gradient-to-l from-violet-900 via-violet-400 to-blue-100">
+        <Footerbar />
+      </div>
+    </div>
   );
-}
+};
 
 export default App;

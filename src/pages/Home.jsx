@@ -10,10 +10,9 @@ import {
   FaRegArrowAltCircleRight,
 } from "react-icons/fa";
 import { GiFragrance } from "react-icons/gi";
+import Videoplayer from "../components/Videoplayer";
 
 const Home = () => {
-
-  const [isOpen, setOpen] = useState(false);
   return (
     <div>
       <div class="wrapper flex justify-center items-start">
@@ -113,20 +112,12 @@ const Home = () => {
         </div>
       </div>
 
-        {/* <div className='flex justify-end w-1/2'>
-          <img className='w-1/2 md:w-1/4  inset-0 z-0' src="/cleaning.jpg" alt="Logo" />
-        </div> */}
-  
-        <div className='flex justify-center items-center mx-4 md:mx-44 lg:mx-96'>
+      <div>
+        <Videoplayer />
+      </div>
 
-          <div className='flex-col bg-violet-700 p-4 md:p-8 rounded-md mt-24 md:mt-44 shadow-md'>
-          <h2 className='text-gray-200 text-2xl font-bold text-center'>Why Choose Us?</h2>
-          <p className='text-gray-200 font-bold text-center mt-2'>Our journey is driven by a passion for excellence, an unwavering commitment to quality, and a deep understanding of our clients' needs.</p>
-          </div>
-
-
-      <div className="flex justify-center items-center mx-4 md:mx-44 lg:mx-96">
-        <div className="flex-col bg-violet-700 p-4 md:p-8 rounded-md mt-10 md:mt-44 shadow-md">
+      <div className="flex justify-center items-center mx-4 md:mx-44 lg:mx-96 mt-4">
+        <div className="flex-col bg-violet-700 p-4 md:p-8 rounded-md mt-10 md:mt-36 shadow-md">
           <h2 className="text-gray-200 text-2xl font-bold text-center">
             Why Choose Us?
           </h2>
@@ -268,10 +259,6 @@ const Home = () => {
         </div>
       </div>
 
-      {/* ------------------------------------------------------------------------------------------------------------------------------------------ */}
-      
-
-
       <div className="md:my-44 md:mx-8 mx-8">
         <Reviews />
       </div>
@@ -339,7 +326,6 @@ const Home = () => {
       <div>
         <Appointmentform />
       </div>
-    </div>
     </div>
   );
 };
