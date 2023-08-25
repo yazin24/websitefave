@@ -340,6 +340,7 @@ const Home = () => {
         <Appointmentform />
       </div>
     </div>
+    </div>
   );
 };
 
