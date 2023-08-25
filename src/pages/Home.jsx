@@ -281,11 +281,17 @@ const Home = () => {
         <Reviews />
       </div>
 
+      <div  data-aos="fade-right"
+        data-aos-easing="ease-out-cubic"
+        data-aos-duration="4000">
       <h2 className="md:mx-8 mx-8 underline text-xl cursor-pointer">
         Want a Business? Lets talk!
       </h2>
+        </div>
 
-      <div className="flex flex-col md:flex-row my-24 md:my-8 md:mx-8 mx-4">
+      <div className="flex flex-col md:flex-row my-24 md:my-8 md:mx-8 mx-4"  data-aos="fade-left"
+        data-aos-easing="ease-out-cubic"
+        data-aos-duration="4000">
         <div className="w-full md:w-1/4">
           <span className="flex flex-row md:flex-row">
             <FaRegArrowAltCircleRight className="text-2xl text-violet-700 cursor-pointer" />
