@@ -31,7 +31,10 @@ const Home = () => {
             <a
               href="https://www.facebook.com/profile.php?id=100094725815233"
               className="flex items-center justify-center bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-2 rounded-md w-full md:w-3/4 lg:w-1/2 transition-all duration-200 text-center"
-            >
+               data-aos="fade-up"
+              data-aos-easing="ease-out-cubic"
+              data-aos-duration="4000"
+              >
               CHAT WITH OUR CLEANING EXPERTS
             </a>
           </section>
