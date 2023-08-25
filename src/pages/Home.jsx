@@ -1,6 +1,8 @@
 import React from "react";
 import Reviews from "../components/Reviews";
 import Appointmentform from "../components/Appointmentform";
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 import {
   FaCheckCircle,
   FaExchangeAlt,
@@ -116,7 +118,9 @@ const Home = () => {
         <Videoplayer />
       </div>
 
-      <div className="flex justify-center items-center mx-4 md:mx-44 lg:mx-96 mt-4">
+      <div className="flex justify-center items-center mx-4 md:mx-44 lg:mx-96 mt-4" data-aos="fade-down"
+        data-aos-easing="ease-out-cubic"
+        data-aos-duration="4000">
         <div className="flex-col bg-violet-700 p-4 md:p-8 rounded-md mt-10 md:mt-36 shadow-md">
           <h2 className="text-gray-200 text-2xl font-bold text-center">
             Why Choose Us?
@@ -131,7 +135,10 @@ const Home = () => {
 
       <div className="flex flex-col mt-16 w-full mb-8">
         <div className="flex flex-col md:flex-row justify-center w-full mb-4">
-          <div className="p-4 w-full md:w-1/3">
+          
+          <div className="p-4 w-full md:w-1/3" data-aos="fade-right"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="4000">
             <div className="bg-violet-700 p-4 rounded-md shadow-md my-4">
               <span className="flex flex-row items-center">
                 <span>
@@ -150,7 +157,9 @@ const Home = () => {
             </div>
           </div>
 
-          <div className="p-4 w-full md:w-1/3">
+          <div className="p-4 w-full md:w-1/3" data-aos="zoom-in"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="4000">
             <div className="bg-violet-700 p-4 rounded-md shadow-md my-4">
               <span className="flex flex-row items-center">
                 <span>
@@ -171,7 +180,9 @@ const Home = () => {
             </div>
           </div>
 
-          <div className="p-4 w-full md:w-1/3">
+          <div className="p-4 w-full md:w-1/3" data-aos="fade-left"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="4000">
             <div className="bg-violet-700 p-4 rounded-md shadow-md my-4">
               <span className="flex flex-row items-center">
                 <span>
@@ -194,7 +205,10 @@ const Home = () => {
         </div>
 
         <div className="flex flex-col md:flex-row justify-center w-full mb-4">
-          <div className="p-4 w-full md:w-1/3">
+          <div className="p-4 w-full md:w-1/3"  data-aos="fade-right"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="4000"
+          >
             <div className="bg-violet-700 p-4 rounded-md shadow-md my-4">
               <span className="flex flex-row items-center">
                 <span>
@@ -215,7 +229,9 @@ const Home = () => {
             </div>
           </div>
 
-          <div className="p-4 w-full md:w-1/3">
+          <div className="p-4 w-full md:w-1/3" data-aos="zoom-in"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="4000">
             <div className="bg-violet-700 p-4 rounded-md shadow-md my-4">
               <span className="flex flex-row items-center">
                 <span>
@@ -236,7 +252,9 @@ const Home = () => {
             </div>
           </div>
 
-          <div className="p-4 w-full md:w-1/3">
+          <div className="p-4 w-full md:w-1/3" data-aos="fade-left"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="4000">
             <div className="bg-violet-700 p-4 flex flex-col rounded-md shadow-md my-4">
               <span className="flex flex-row items-center">
                 <span>
