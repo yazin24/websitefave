@@ -224,7 +224,7 @@ const Products = () => {
 
       <div className="pt-20 flex md:flex-row gap-2 justify-center">
         {/* <h2 className="font-bold text-lime-500 text-xl mt-1">Calamansi</h2> */}
-        <img src="Calamansi.png" alt="" className="h-32 w-1/10  pb-2" />
+        <img src="CALAMANSI.png" alt="" className="h-32 w-1/10  pb-2" />
       </div>
 
       <div className="flex items-center  flex-col md:flex-row justify-center md:justify-center gap-16 md:gap-40 mt-10">
@@ -436,7 +436,7 @@ const Products = () => {
 
       <div className="pt-20 flex md:flex-row gap-2 justify-center">
         {/* <h2 className="font-bold text-blue-700 text-xl mt-1">Fresh Antibac</h2> */}
-        <img src="Antibac.png" alt="" className="h-32 w-1/10  pb-2" />
+        <img src="ANTIBAC.png" alt="" className="h-32 w-1/10  pb-2" />
       </div>
 
       <div className="flex items-center flex-col md:flex-row justify-center md:justify-center gap-16 md:gap-40 mt-10">
