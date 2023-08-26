@@ -13,6 +13,7 @@ import {
 } from "react-icons/fa";
 import { GiFragrance } from "react-icons/gi";
 import Videoplayer from "../components/Videoplayer";
+import Carousel from "../components/Carousel";
 
 const Home = () => {
   return (
@@ -281,7 +282,7 @@ const Home = () => {
       </div>
 
       <div className="md:my-44 md:mx-8 mx-8">
-        <Reviews />
+        <Carousel />
       </div>
 
       <div  data-aos="fade-right"
