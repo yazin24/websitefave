@@ -23,7 +23,7 @@ const Products = () => {
         >
           <div className="bg-white text-gray-700 shadow-lg overflow-hidden border-2 border-violet-700 cursor-pointer hover:scale-[1.05] hover:!scale-100!important duration-100">
             <img className="h-56 w-56" src="1.jpg" alt="" />
-            <div className="p-2 flex-col bg-violet-700"
+            <div className="p-2 flex-col bg-violet-700">
               <div className="px-3 py-1 text-md font-bold text-center text-gray-200">
                 <span>₱ 129.00</span>
               </div>
