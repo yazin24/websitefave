@@ -10,7 +10,9 @@ const Products = () => {
         </h2>
       </div>
 
-      <div className="pt-20 flex md:flex-row gap-2 justify-center">
+      <div className="pt-20 flex md:flex-row gap-2 justify-center" data-aos="zoom-in"
+        data-aos-easing="ease-out-cubic"
+        data-aos-duration="4000">
         {/* <h2 className="font-bold text-xl text-yellow-500 mt-2">Honey Lemon</h2> */}
         <img src="HONEYLEMON.png" alt="" className="h-32 w-1/10 pb-2 " />
       </div>
