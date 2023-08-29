@@ -1,5 +1,5 @@
 import React from "react";
-import faveVideo from "./faveVideo.mp4";
+import faveVideo from "../faveVideo.mp4";
 // import faveVideo from "../assets/faveVideo.mp4";
 import { FaCheck } from "react-icons/fa";
 
